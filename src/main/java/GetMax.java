@@ -12,6 +12,6 @@ public class GetMax {
             if(maxVal < arr[i])
                 maxVal = arr[i];
         }
-        return maxVal;
+        return maxVal ;
     }
 }
